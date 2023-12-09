@@ -466,8 +466,10 @@ doit proc			; proc -- procedure
 	; ------------------------------------------------ Two's Complement - Handling Overflow ---------------------------------------------------
 	; ref link:https://www.youtube.com/watch?v=Rt4suLtnM1c&list=PLRwVmtr-pp06-8kzgl6j-hp7JSd829ro2&index=28
 
+	; all non-negative values have zeroes for the leading bit, ex. 010
+	; all negative values have ones for the leading bit, ex. 100
 
-
+	; All overflow cases: 10+01, overflow cases(leading bits): 1+1=0, 0+0=1, 1+1=1, 0+0=0 
 
 
 
