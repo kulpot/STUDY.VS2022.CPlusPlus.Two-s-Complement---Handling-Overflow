@@ -463,6 +463,30 @@ doit proc			; proc -- procedure
 	;	 010	|	2				 |	 2				
 	;	 011	|	3				 |	 3	
 
+	; ------------------------------------------------ Two's Complement - Handling Overflow ---------------------------------------------------
+	; ref link:https://www.youtube.com/watch?v=Rt4suLtnM1c&list=PLRwVmtr-pp06-8kzgl6j-hp7JSd829ro2&index=28
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
